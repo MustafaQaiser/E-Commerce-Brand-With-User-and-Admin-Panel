@@ -1,7 +1,7 @@
 <template>
   <div class="user-details">
     <div class="field">
-      <label class="label">ID:</label>
+      <label class="label">IDDD:</label>
       <input class="input" :value="id" disabled />
     </div>
     <div class="field">
