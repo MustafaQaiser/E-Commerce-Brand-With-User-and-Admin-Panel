@@ -5,7 +5,7 @@
       <input class="input" :value="id" disabled />
     </div>
     <div class="field">
-      <label class="label">Usernameeeee:</label>
+      <label class="label">Username:</label>
       <input class="input" :value="username" disabled />
     </div>
    
